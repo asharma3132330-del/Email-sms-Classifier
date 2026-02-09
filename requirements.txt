@@ -1,13 +1,7 @@
-<<<<<<< HEAD
+
 streamlit
 nltk
 scikit-learn
 pandas
 numpy
-=======
-streamlit
-nltk
-scikit-learn
-pandas
-numpy
->>>>>>> dde2a9e330e9b0e0d5916dd7bab340e7de969e2e
+
